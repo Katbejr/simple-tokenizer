@@ -2,7 +2,7 @@ The city of Rivermouth had always been a place of contrasts. On one side of
 the old stone bridge stood towering glass buildings, their windows reflecting 
 the morning sun like scattered diamonds. On the other side, narrow cobblestone 
 streets wound between weathered brick houses that had stood for over two 
-centuries.
+centuries. 
 
 Sarah walked briskly through the market square, her boots clicking against 
 the worn pavement. Vendors called out from their stalls, offering fresh bread, 
